@@ -1,3 +1,4 @@
+# Trabajo hecho por Juan Clímaco #06, Gabriel Segovoia #26 
 #  Accommodations Tourism Database
 
 Base de datos relacional en **PostgreSQL** para la gestión de una plataforma de reservas de alojamientos turísticos (estilo Airbnb/Booking). Modela propietarios, alojamientos, habitaciones, huéspedes, reservas, pagos y reseñas.
